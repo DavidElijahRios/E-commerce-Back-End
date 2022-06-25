@@ -38,7 +38,7 @@
 
   Go into directory where code lives and make sure to install all packages with "npm i" then run command npm run seed to seed database, then run command npm start to start server and application is functional. 
 
-[Application Routes Demo](assets/images/screenshot.png)
+[Application Routes Demo](https://drive.google.com/file/d/189LeybjlvdszqH1muOWf4NJl9-m7SSnv/view?usp=sharing)
 
 
 
